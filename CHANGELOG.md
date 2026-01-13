@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.1] - 2026-01-13
+
 ### Added
 - Go client library for CSG Actuarial Medicare Supplement API
 - Type-safe client for Medicare Supplement quote retrieval
@@ -35,7 +37,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Boolean constants: `True`, `False`
 - Plan constants: `PlanF`, `PlanG`, `PlanN`
 
-## [0.1.0] - Initial Release
-
-[Unreleased]: https://github.com/medicareschoolcom/csg/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/medicareschoolcom/csg/releases/tag/v0.1.0
+[Unreleased]: https://github.com/medicareschoolcom/csg/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/medicareschoolcom/csg/releases/tag/v0.0.1
